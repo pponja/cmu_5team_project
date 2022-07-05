@@ -1,0 +1,43 @@
+<style>
+td {
+	border: 1px solid black;
+	border-collapse: collapsae;
+}
+
+th {
+	background-color: silver;
+}
+</style>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>INFO</title>
+</head>
+<body>
+	<table>
+		<thead>
+			<tr>
+				<th>INFO</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr th:each="platenumber : ${plateNumberList}">
+				<td th:text="${platenumber.licensenumber}"></td>
+				<td th:text="${platenumber.licensestatus}"></td>
+				<td th:text="${platenumber.licenseexpdate}"></td>
+				<td th:text="${platenumber.ownername}"></td>
+				<td th:text="${platenumber.ownerbirthday}"></td>
+				<td th:text="${platenumber.owneraddress}"></td>
+				<td th:text="${platenumber.ownercity}"></td>
+				<td th:text="${platenumber.vhemanufacture}"></td>
+				<td th:text="${platenumber.vhemake}"></td>
+				<td th:text="${platenumber.vhemodel}"></td>
+				<td th:text="${platenumber.vhecolor}"></td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>

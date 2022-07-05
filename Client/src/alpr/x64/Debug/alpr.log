@@ -1,0 +1,9 @@
+﻿  featurematcher.cpp
+  line_segment.cpp
+  state_detector.cpp
+  state_detector_impl.cpp
+  videobuffer.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
+     D:\SWSecurity\CMU\Project\from\cmu_defense_project\x64\Debug\alpr.lib 라이브러리 및 D:\SWSecurity\CMU\Project\from\cmu_defense_project\x64\Debug\alpr.exp 개체를 생성하고 있습니다.
+  alpr.vcxproj -> D:\SWSecurity\CMU\Project\from\cmu_defense_project\x64\Debug\alpr.exe

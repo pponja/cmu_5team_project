@@ -1,0 +1,1264 @@
+2022-06-30 18:25:51.9370|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login
+2022-06-30 18:25:52.2944|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:25:52.2944|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:login fail Reason: The user does not exist 900
+2022-06-30 18:31:30.8466|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login
+2022-06-30 18:31:31.2212|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:31:31.2333|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:login fail Reason: The user does not exist 900
+2022-06-30 18:32:18.9597|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login
+2022-06-30 18:32:31.4164|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:32:31.4187|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:success 200
+2022-06-30 18:33:02.6636|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:OTPReqeust Addr:https://localhost:8443/auth/otp-check
+2022-06-30 18:33:02.6690|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:33:02.6690|INFO|WindowsForms_client.MainFrm|[Response from Server : OTPReqeust OK login fail Reason: For input string: "	83294" 900
+2022-06-30 18:33:07.9402|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login
+2022-06-30 18:33:20.6145|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:33:20.6145|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:success 200
+2022-06-30 18:33:31.9832|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:OTPReqeust Addr:https://localhost:8443/auth/otp-check
+2022-06-30 18:35:52.7028|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login
+2022-06-30 18:36:05.7753|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:36:05.7863|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:success 200
+2022-06-30 18:36:17.3959|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:OTPReqeust Addr:https://localhost:8443/auth/otp-check
+2022-06-30 18:36:17.4220|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:36:17.4220|INFO|WindowsForms_client.MainFrm|[Response from Server : OTPReqeust OK success 200
+2022-06-30 18:36:28.5208|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:28.5523|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:28.5718|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:28.5718|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:28.8273|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:28.8399|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:28.9267|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:28.9396|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:29.1868|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:29.1989|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:29.7233|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:29.7367|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:34.2128|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:34.2265|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:34.2418|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:34.2560|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:34.6787|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:34.6922|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:35.4373|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:35.4509|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:35.5771|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:35.5897|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:35.6855|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:35.7103|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:37.0723|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:37.0858|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:37.1014|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:37.1142|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:37.1612|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:37.1730|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:37.4164|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:37.4331|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:37.4766|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:37.4897|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:38.5480|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:38.5598|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:39.5708|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:39.5847|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:39.5995|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:39.6093|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:39.6277|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:39.6413|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:39.7783|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:39.7925|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:39.8917|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:39.9033|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:39.9465|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:39.9595|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:40.7447|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:40.7565|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:40.7772|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:40.7772|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:40.9520|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:40.9520|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:41.0093|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:41.0224|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:41.0689|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:41.0809|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:41.9545|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:41.9658|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:41.9819|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:41.9819|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:42.1326|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:42.1463|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:42.3634|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:42.3744|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:42.3908|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:42.4021|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:42.9059|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:42.9182|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:42.9329|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:42.9329|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:43.0148|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:43.0265|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:43.0715|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:43.0844|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:36:43.3838|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/testJSON
+2022-06-30 18:36:43.3951|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : NotFound
+2022-06-30 18:40:05.2727|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://10.58.0.154:8443/auth/login
+2022-06-30 18:40:05.4046|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:40:05.4046|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:login fail Reason: The user does not exist 900
+2022-06-30 18:40:37.4325|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://10.58.0.154:8443/auth/login
+2022-06-30 18:40:37.5616|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:40:37.5771|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:login fail Reason: The user does not exist 900
+2022-06-30 18:40:40.8705|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://10.58.0.154:8443/auth/login
+2022-06-30 18:40:40.8857|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:40:40.8857|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:login fail Reason: The user does not exist 900
+2022-06-30 18:41:05.6590|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login
+2022-06-30 18:41:18.4111|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:41:18.4224|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:success 200
+2022-06-30 18:41:26.1464|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:OTPReqeust Addr:https://localhost:8443/auth/otp-check
+2022-06-30 18:41:26.1544|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:41:26.1544|INFO|WindowsForms_client.MainFrm|[Response from Server : OTPReqeust OK success 200
+2022-06-30 18:41:35.5774|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:35.6005|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:35.6005|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:35.6176|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:41:35.8522|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:35.8628|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:35.9507|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:35.9648|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:36.2209|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:36.2366|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:36.7607|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:36.7607|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:41.1746|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:41.1921|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:41.2011|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:41.2011|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:41:41.6061|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:41.6061|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:42.3672|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:42.3790|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:41:42.5074|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:42.5190|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:42.6130|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:42.6292|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:43.9520|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:43.9685|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:43.9826|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:43.9826|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:41:44.0504|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:44.0589|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:44.2852|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:44.3034|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:44.3378|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:44.3520|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:45.4490|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:45.4490|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:46.4266|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:46.4425|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:46.4550|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:46.4670|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:41:46.5786|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:46.5903|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:46.6491|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:46.6641|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:46.7304|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:46.7304|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:46.7831|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:46.7963|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:47.5605|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:47.5605|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:41:47.6940|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:47.7024|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:47.7700|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:47.7843|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:47.8253|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:47.8392|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:47.8835|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:47.9022|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:48.7642|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:48.7769|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:48.7769|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:48.7986|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:41:48.9473|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:48.9573|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:49.1753|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:49.1903|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:49.2024|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:49.2147|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:49.6991|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:49.6991|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:41:49.7260|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:49.7353|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:49.8066|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:49.8195|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:49.8633|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:49.8767|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:50.1627|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:50.1753|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:53.6138|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:53.6268|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:53.7871|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:53.8005|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:53.8179|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:53.8319|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:54.0512|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:54.0652|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:54.5768|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:54.5921|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:54.5921|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:54.6167|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:54.7095|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:54.7222|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:54.7446|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:54.7585|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:54.7754|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:54.7911|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:54.8969|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:54.9118|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:54.9844|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:54.9980|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:55.2193|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:55.2331|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:55.2783|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:55.2931|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:55.4238|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:55.4370|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:55.5071|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:55.5217|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:55.5921|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:55.6049|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:55.6750|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:55.6892|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:57.1469|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:57.1583|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:57.3117|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:57.3261|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:57.3408|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:57.3408|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:57.4232|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:57.4370|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:58.3256|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:58.3403|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:58.4464|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:58.4609|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:58.7630|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:58.7820|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:58.9604|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:58.9746|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:59.2419|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:59.2567|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:59.5574|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:59.5574|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:59.6771|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:59.6917|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:41:59.8641|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:41:59.8797|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:00.3338|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:00.3484|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:00.5592|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:00.5592|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:00.7470|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:00.7470|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:02.4139|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:02.4276|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:05.3896|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:05.4033|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:05.4535|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:05.4687|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:05.4872|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:05.5005|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:05.5224|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:05.5375|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:05.5718|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:05.5894|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:05.6501|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:05.6611|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:05.6843|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:05.7007|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:05.7439|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:05.7608|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:05.7769|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:05.7769|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:05.8067|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:05.8220|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:12.8087|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:12.8087|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:12.8395|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:12.8395|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:12.9991|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:13.0136|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:13.5956|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:13.6085|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:13.6310|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:13.6436|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:13.9373|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:13.9510|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:14.0755|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:14.0888|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:14.2235|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:14.2373|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:14.8326|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:14.8466|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:14.8661|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:14.8782|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:20.6661|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:20.6775|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:20.6959|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:20.7082|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:20.8420|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:20.8548|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:25.2735|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:25.2876|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:25.3058|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:25.3175|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:25.4526|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:25.4656|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:25.4906|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:25.5034|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:27.0566|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:27.0695|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:27.2396|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:27.2534|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:27.2914|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:27.3037|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:27.3401|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:27.3546|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:28.5364|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:28.5503|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:28.5723|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:28.5876|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:29.4796|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:29.4796|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:29.5044|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:29.5175|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:29.6026|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:29.6146|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:29.6324|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:29.6449|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:30.9625|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:30.9746|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:30.9892|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:31.0004|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:31.0473|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:31.0588|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:42:31.1031|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:42:31.1181|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:45:21.1370|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login
+2022-06-30 18:45:21.2966|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:45:21.3166|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:login fail Reason: The user does not exist 900
+2022-06-30 18:45:37.0340|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login
+2022-06-30 18:45:49.9572|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:45:49.9572|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:success 200
+2022-06-30 18:46:03.3598|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:OTPReqeust Addr:https://localhost:8443/auth/otp-check
+2022-06-30 18:46:03.3714|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:46:03.3714|INFO|WindowsForms_client.MainFrm|[Response from Server : OTPReqeust OK success 200
+2022-06-30 18:46:20.1760|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:20.1994|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:20.2230|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:20.2416|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:46:20.6189|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:20.6373|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:20.8012|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:20.8265|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:21.2924|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:21.3167|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:22.1143|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:22.1530|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:28.4131|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:28.4391|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:28.4482|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:28.4694|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:46:29.0421|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:29.0624|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:30.1824|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:30.1999|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:46:30.3402|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:30.3583|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:30.5012|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:30.5273|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:32.4484|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:32.4746|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:32.4932|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:32.5139|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:46:32.6477|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:32.6632|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:32.8962|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:32.9199|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:32.9919|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:33.0188|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:34.5385|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:34.5632|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:35.9969|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:36.0268|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:36.0419|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:36.0627|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:46:36.2130|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:36.2318|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:36.2525|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:36.2793|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:36.3712|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:36.3931|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:36.4373|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:36.4636|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:37.5903|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:37.6147|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:46:37.7388|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:37.7519|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:37.8631|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:37.8823|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:37.9265|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:37.9454|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:38.0044|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:38.0258|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:39.3730|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:39.3937|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:39.4067|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:39.4223|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:46:39.6464|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:39.6631|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:40.0760|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:40.1008|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:40.1187|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:40.1392|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:40.9223|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:40.9445|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:46:40.9688|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:40.9825|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:41.0744|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:41.0980|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:41.1500|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:41.1744|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:41.6343|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:41.6581|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:46.4394|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:46.4633|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:46.6819|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:46.7032|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:46.7262|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:46.7491|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:47.0810|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:47.0997|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:47.7754|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:47.7982|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:47.8217|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:47.8392|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:47.9658|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:47.9882|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:48.0154|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:48.0384|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:48.0579|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:48.0784|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:48.2879|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:48.3068|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:48.3128|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:48.3286|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:48.5946|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:48.6152|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:48.6813|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:48.7072|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:48.8634|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:48.8831|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:48.9648|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:48.9862|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:49.0622|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:49.0862|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:49.1854|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:49.2054|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:51.3604|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:51.3825|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:51.6033|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:51.6236|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:51.6428|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:51.6590|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:51.7591|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:51.7782|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:52.9979|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:53.0163|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:53.1658|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:53.1834|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:53.5621|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:53.5794|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:53.7930|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:53.8118|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:54.1709|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:54.1948|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:54.5784|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:54.5996|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:54.7257|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:54.7507|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:54.9415|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:54.9629|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:55.6668|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:55.6895|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:55.9560|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:55.9784|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:56.2606|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:56.2873|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:46:59.7240|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:46:59.7489|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:05.2430|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:05.2619|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:05.3430|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:05.3635|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:05.3892|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:05.4091|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:05.4380|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:05.4566|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:05.5733|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:05.5733|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:05.5908|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:05.5908|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:05.6051|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:05.6223|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:05.6783|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:05.6971|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:05.7263|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:05.7439|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:05.7604|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:05.7797|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:14.3139|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:14.3343|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:14.3619|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:14.3811|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:14.5462|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:14.5642|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:15.2358|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:15.2551|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:15.2787|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:15.2977|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:15.6157|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:15.6359|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:15.7562|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:15.7756|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:15.8967|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:15.9157|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:16.5551|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:16.5764|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:47:16.6000|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:47:16.6229|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:51:16.3055|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login
+2022-06-30 18:51:16.4618|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:51:16.4801|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:login fail Reason: The user does not exist 900
+2022-06-30 18:51:27.7846|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login
+2022-06-30 18:51:40.0902|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:51:40.0902|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:success 200
+2022-06-30 18:51:54.6873|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:OTPReqeust Addr:https://localhost:8443/auth/otp-check
+2022-06-30 18:51:54.6984|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:51:54.6984|INFO|WindowsForms_client.MainFrm|[Response from Server : OTPReqeust OK success 200
+2022-06-30 18:52:10.6831|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:10.7012|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:10.7137|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:10.7348|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:52:11.0969|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:11.1142|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:11.2327|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:11.2668|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:11.7185|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:11.7522|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:12.4072|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:12.4301|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:18.0724|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:18.0971|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:18.1063|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:18.1274|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:52:18.6590|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:18.6748|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:19.8705|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:19.8907|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:52:20.0362|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:20.0502|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:20.1902|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:20.2144|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:22.0273|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:22.0508|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:22.0719|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:22.0917|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:52:22.2244|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:22.2397|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:22.5722|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:22.5958|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:22.6622|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:22.6824|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:24.2173|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:24.2458|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:25.4849|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:25.5076|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:25.5152|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:25.5396|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:52:25.7094|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:25.7164|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:25.7164|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:25.7400|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:25.8417|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:25.8643|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:25.9252|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:25.9545|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:26.8926|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:26.9108|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:52:27.0498|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:27.0618|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:27.1448|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:27.1661|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:27.2143|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:27.2338|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:27.2943|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:27.3196|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:28.5103|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:28.5113|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:28.5306|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:28.5306|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:52:28.6974|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:28.7130|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:28.9798|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:28.9987|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:29.0182|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:29.0390|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:29.8289|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:29.8484|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:52:29.8795|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:29.8958|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:30.0220|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:30.0386|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:30.0902|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:30.1112|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:30.4399|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:30.4588|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:34.7940|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:34.8113|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:34.9943|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:35.0108|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:35.0298|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:35.0495|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:35.3594|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:35.3825|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:36.1919|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:36.2148|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:36.2470|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:36.2684|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:36.4060|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:36.4284|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:36.4672|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:36.4890|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:36.5160|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:36.5388|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:36.7142|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:36.7337|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:36.8246|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:36.8434|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:37.1059|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:37.1303|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:37.1776|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:37.1954|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:37.3569|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:37.3789|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:37.5146|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:37.5392|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:37.6674|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:37.6892|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:37.7934|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:37.8101|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:39.7374|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:39.7626|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:39.9539|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:39.9739|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:39.9942|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:40.0126|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:40.0928|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:40.1081|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:41.1267|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:41.1450|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:41.3404|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:41.3602|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:41.7644|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:41.7852|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:42.0379|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:42.0586|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:42.4167|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:42.4348|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:42.9911|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:43.0121|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:43.1824|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:43.1999|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:43.5021|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:43.5243|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:44.2873|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:44.3108|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:44.6161|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:44.6403|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:44.9173|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:44.9410|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:52:46.9564|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:52:46.9811|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:54:25.7333|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login
+2022-06-30 18:54:25.8255|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:54:25.8255|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:login fail Reason: The user does not exist 900
+2022-06-30 18:54:36.6969|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login
+2022-06-30 18:54:48.7892|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:54:48.7892|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:success 200
+2022-06-30 18:55:04.2100|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:OTPReqeust Addr:https://localhost:8443/auth/otp-check
+2022-06-30 18:55:04.2157|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:55:04.2157|INFO|WindowsForms_client.MainFrm|[Response from Server : OTPReqeust OK success 200
+2022-06-30 18:55:16.9524|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:16.9698|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:16.9835|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:16.9835|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:55:17.2333|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:17.2333|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:17.3304|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:17.3407|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:17.5971|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:17.6142|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:18.1398|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:18.1514|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:22.5334|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:22.5428|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:22.5590|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:22.5590|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:55:22.9521|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:22.9521|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:23.6828|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:23.6828|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:55:23.8177|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:23.8242|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:23.9253|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:23.9357|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:25.2680|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:25.2791|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:25.2967|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:25.2967|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:55:25.3747|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:25.3747|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:25.6072|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:25.6072|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:25.6610|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:25.6728|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:26.6821|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:26.6919|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:27.6524|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:27.6672|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:27.6672|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:27.6870|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:55:27.7718|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:27.7783|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:27.8540|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:27.8682|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:27.9758|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:27.9908|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:28.0356|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:28.0467|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:28.9197|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:28.9197|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:55:29.0322|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:29.0322|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:29.1365|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:29.1365|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:29.1963|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:29.2100|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:29.2534|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:29.2666|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:30.1406|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:30.1520|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:30.1692|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:30.1692|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:55:30.3274|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:30.3274|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:30.5626|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:30.5746|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:30.5918|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:30.6044|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:31.1211|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:31.1211|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 18:55:31.1530|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:31.1530|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:31.2352|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:31.2499|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:31.2936|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:31.2936|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:31.6171|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:31.6270|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:35.5058|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:35.5195|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:35.6888|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:35.6985|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:35.7202|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:35.7309|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:35.9826|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:35.9826|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:36.5717|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:36.5831|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:36.6028|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:36.6138|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:36.7195|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:36.7297|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:36.7553|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:36.7680|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:36.7904|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:36.8021|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:36.9139|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:36.9252|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:36.9950|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:36.9950|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:37.2319|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:37.2319|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:37.2944|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:37.2944|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:37.4474|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:37.4579|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:37.5555|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:37.5705|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:37.6656|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:37.6784|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:37.7566|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:37.7693|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:39.3034|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:39.3159|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:39.4870|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:39.4991|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:39.5216|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:39.5375|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:39.6275|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:39.6418|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:40.8490|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:40.8591|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:40.9730|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:40.9852|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:41.2351|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:41.2461|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:41.4232|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:41.4345|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:41.7150|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:41.7150|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:42.0482|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:42.0578|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:42.1706|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:42.1827|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:42.3502|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:42.3612|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:42.8465|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:42.8567|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:43.0955|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:43.1054|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:43.3267|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:43.3395|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:45.2761|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:45.2925|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:48.7366|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:48.7464|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:48.8238|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:48.8238|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:48.8688|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:48.8784|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:48.9164|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:48.9294|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:48.9625|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:48.9720|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:49.0513|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:49.0616|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:49.0935|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:49.1060|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:49.1725|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:49.1829|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:49.2101|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:49.2211|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:49.2413|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:49.2542|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:56.4506|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:56.4506|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:56.4803|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:56.4803|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:56.6598|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:56.6790|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:57.1980|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:57.2096|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:57.2323|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:57.2323|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:57.4855|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:57.4963|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:57.6180|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:57.6281|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:57.7598|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:57.7711|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:58.2840|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:58.2950|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:55:58.3143|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:55:58.3246|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:03.7766|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:03.7766|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:03.8069|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:03.8183|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:03.9544|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:03.9645|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:08.6436|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:08.6557|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:08.6742|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:08.6857|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:08.8356|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:08.8471|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:08.8608|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:08.8756|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:10.3802|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:10.3914|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:10.5542|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:10.5655|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:10.6017|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:10.6106|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:10.6519|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:10.6519|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:11.9554|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:11.9693|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:11.9953|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:11.9953|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:13.1176|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:13.1288|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:13.1495|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:13.1587|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:13.2690|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:13.2770|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:13.2993|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:13.3099|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:14.6559|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:14.6677|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:14.6911|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:14.7004|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:14.7546|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:14.7652|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 18:56:14.8194|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 18:56:14.8286|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:06:26.0299|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login
+2022-06-30 21:06:29.8790|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 21:06:29.8894|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:success 200
+2022-06-30 21:06:44.4596|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:OTPReqeust Addr:https://localhost:8443/auth/otp-check
+2022-06-30 21:06:44.4687|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 21:06:44.4687|INFO|WindowsForms_client.MainFrm|[Response from Server : OTPReqeust OK success 200
+2022-06-30 21:06:52.1610|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:06:52.1806|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:06:52.1862|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:06:52.2060|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 21:06:52.4299|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:06:52.4299|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:06:52.5299|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:06:52.5421|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:06:52.7794|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:06:52.7960|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:06:53.2804|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:06:53.2955|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:06:57.3089|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:06:57.3089|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:06:57.3342|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:06:57.3428|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 21:06:57.6964|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:06:57.6964|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:06:58.3715|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:06:58.3715|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 21:06:58.4801|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:06:58.5052|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:06:58.5811|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:06:58.6006|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:06:59.8186|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:06:59.8282|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:06:59.8406|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:06:59.8406|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 21:06:59.8958|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:06:59.8958|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:00.1308|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:00.1445|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:00.1762|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:00.1932|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:01.1161|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:01.1303|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:02.0200|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:02.0311|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:02.0466|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:02.0466|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 21:07:02.1129|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:02.1129|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:02.1995|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:02.1995|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:02.2969|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:02.3135|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:02.3464|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:02.3632|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:03.0680|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:03.0807|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 21:07:03.1323|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:03.1489|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:03.2615|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:03.2615|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:03.3128|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:03.3128|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:03.3652|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:03.3755|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:04.1627|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:04.1795|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:04.1795|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:04.1968|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 21:07:04.3294|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:04.3467|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:04.5466|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:04.5711|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:04.5737|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:04.5895|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:05.0340|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:05.0502|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-06-30 21:07:05.0665|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:05.0665|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:05.1305|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:05.1468|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:05.1904|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:05.2100|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:05.4744|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:05.4897|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:08.8894|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:08.9097|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:09.0797|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:09.0962|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:09.1132|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:09.1132|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:09.3230|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:09.3355|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:09.8121|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:09.8283|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:09.8442|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:09.8605|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:09.9485|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:09.9485|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:09.9805|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:09.9805|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:10.0103|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:10.0223|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:10.1191|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:10.1296|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:10.1778|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:10.1952|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:10.3778|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:10.3950|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:10.4414|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:10.4544|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:10.5594|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:10.5798|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:10.6455|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:10.6455|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:10.7134|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:10.7232|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:10.7889|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:10.8009|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:12.0624|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:12.0792|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:12.2175|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:12.2175|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:12.2448|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:12.2528|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:12.3120|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:12.3293|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:13.1437|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:13.1545|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:13.2578|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:13.2630|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:13.4965|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:13.4965|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:13.6777|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:13.6777|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:13.9626|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:13.9788|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:14.2573|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:14.2686|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:14.3626|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:14.3626|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:14.5286|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:14.5286|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:14.9544|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:14.9544|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:15.1540|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:15.1678|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:15.3322|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:15.3421|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:16.7867|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:16.7945|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:19.4108|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:19.4294|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:19.4787|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:19.4787|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:19.5125|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:19.5125|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:19.5390|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:19.5533|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:19.5705|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:19.5803|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:19.6251|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:19.6251|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:19.6437|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:19.6711|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:19.7162|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:19.7162|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:19.7414|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:19.7579|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:19.7579|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:19.7800|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:25.6862|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:25.6862|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:25.7101|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:25.7156|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:25.8428|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:25.8573|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:26.2927|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:26.2927|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:26.3242|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:26.3242|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:26.5504|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:26.5618|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:26.6598|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:26.6684|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:26.7621|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:26.7792|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:27.2342|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:27.2342|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:27.2590|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:27.2690|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:31.9949|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:32.0116|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:32.0279|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:32.0471|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:32.1605|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:32.1692|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:35.8882|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:35.8882|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:35.9163|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:35.9257|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:36.0396|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:36.0509|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:36.0509|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:36.0755|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:37.4303|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:37.4414|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:37.5847|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:37.5959|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:37.6280|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:37.6412|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:37.6633|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:37.6863|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:38.6901|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:38.6993|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:38.7186|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:38.7186|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:39.4976|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:39.4976|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:39.5127|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:39.5314|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:39.6231|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:39.6231|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:39.6533|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:39.6533|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:40.6957|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:40.7048|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:40.7216|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:40.7467|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:40.8247|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:40.8247|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:40.8949|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:40.9056|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:48.9021|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:48.9021|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:48.9330|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:48.9330|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:48.9560|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:48.9674|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:49.4682|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:49.4682|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:49.4978|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:49.4978|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:49.6462|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:49.6571|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:49.8829|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:49.8924|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:49.9359|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:49.9359|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:51.9467|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:51.9566|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:51.9746|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:51.9847|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:52.0008|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:52.0008|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:52.0293|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:52.0293|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:52.0611|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:52.0732|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:55.7799|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:55.7799|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:57.7725|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:57.7844|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:57.8763|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:57.8887|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:59.1398|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:59.1398|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:59.1650|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:59.1736|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:59.2136|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:59.2259|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:07:59.2925|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:07:59.2925|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:02.5857|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:02.5953|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:17.6478|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:17.6613|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:17.6713|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:17.6713|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:17.6975|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:17.7072|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:17.7233|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:17.7326|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:17.7455|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:17.7455|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:17.7691|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:17.7794|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:17.7794|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:17.8024|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:17.8290|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:17.8481|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:17.8481|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:17.8716|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:18.0877|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:18.0976|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:21.1320|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:21.1454|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:21.1585|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:21.1676|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:21.2126|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:21.2262|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:21.3605|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:21.3760|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:22.5130|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:22.5130|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:22.9428|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:22.9542|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:23.0799|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:23.0915|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:23.3513|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:23.3601|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:23.5318|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:23.5318|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:24.0695|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:24.0792|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:26.0953|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:26.1079|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:26.1236|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:26.1236|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:26.2415|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:26.2543|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:26.4807|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:26.4807|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:26.4984|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:26.4984|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:29.0620|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:29.0620|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:29.0794|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:29.0978|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:29.3647|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:29.3735|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:29.8128|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:29.8233|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:29.8903|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:29.9033|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:29.9296|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:29.9473|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:29.9788|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:29.9882|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:33.5074|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:33.5356|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError
+2022-06-30 21:08:33.5494|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Plate Addr:https://localhost:8443/db/vehicle
+2022-06-30 21:08:33.5629|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : InternalServerError

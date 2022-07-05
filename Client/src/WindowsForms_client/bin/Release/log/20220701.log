@@ -1,0 +1,17 @@
+2022-07-01 07:02:31.0713|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login
+2022-07-01 07:02:31.3830|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-07-01 07:02:31.4027|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:login fail Reason: The user does not exist 900
+2022-07-01 07:03:30.1965|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login
+2022-07-01 07:06:33.3125|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login
+2022-07-01 07:06:33.4963|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-07-01 07:06:33.5204|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:login fail Reason: The user does not exist 900
+2022-07-01 07:06:44.5291|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login
+2022-07-01 07:06:44.5291|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-07-01 07:06:44.5360|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:login fail Reason: The user does not exist 900
+2022-07-01 07:07:14.2753|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login
+2022-07-01 07:07:14.4133|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-07-01 07:07:14.4133|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:login fail Reason: The user does not exist 900
+2022-07-01 07:08:43.7264|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login
+2022-07-01 07:08:43.8652|INFO|WindowsForms_client.MainFrm|[Response StatusCode] : OK
+2022-07-01 07:08:43.8804|INFO|WindowsForms_client.MainFrm|[Response from Server] RequestType:Auth StatusCode:OK StatusMessage:login fail Reason: The user does not exist 900
+2022-07-01 07:09:35.2949|INFO|WindowsForms_client.MainFrm|[Request to Server : RequestType:Auth Addr:https://localhost:8443/auth/login

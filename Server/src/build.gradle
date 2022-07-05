@@ -1,0 +1,51 @@
+plugins {
+	id 'org.springframework.boot' version '2.7.0'
+	id 'io.spring.dependency-management' version '1.0.11.RELEASE'
+	id 'java'
+}
+
+group = 'com.lge.cmu'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '11'
+
+configurations {
+	compileOnly {
+		extendsFrom annotationProcessor
+	}
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	compileOnly 'org.projectlombok:lombok'
+	runtimeOnly 'mysql:mysql-connector-java'
+	annotationProcessor 'org.projectlombok:lombok'
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	developmentOnly 'org.springframework.boot:spring-boot-devtools' //Dev ToolK
+    // java에서 DB에 붙으려면 JDBC 드라이버가 꼭 있어야합니다. spring-data-jpa에 내장되어 있습니다.
+    // 정말 붙었는지 테스트 하기 위해 JPA를 넣어줍니다.
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    // DB와 연결하기 위한 클라이언트 입니다.
+    runtimeOnly 'com.h2database:h2'
+	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+    implementation 'nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect'
+    //JWT
+    implementation 'org.apache.commons:commons-lang3:3.11'
+    implementation 'org.springframework.boot:spring-boot-starter-security'
+    testImplementation 'org.springframework.security:spring-security-test'
+    implementation group: 'io.jsonwebtoken', name: 'jjwt-api', version: '0.11.2'
+    runtimeOnly group: 'io.jsonwebtoken', name: 'jjwt-impl', version: '0.11.2'
+    runtimeOnly group: 'io.jsonwebtoken', name: 'jjwt-jackson', version: '0.11.2'
+    implementation group: 'org.json', name: 'json', version: '20220320'
+
+	// SMTP email
+	implementation 'org.springframework.boot:spring-boot-starter-mail'
+}
+
+
+tasks.named('test') {
+	useJUnitPlatform()
+}
